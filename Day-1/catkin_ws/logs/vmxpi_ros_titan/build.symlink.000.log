@@ -1,0 +1,5 @@
+Symlinking /home/pi/catkin_ws/devel/lib/libtitandriver_ros_wrapper.so
+Symlinking /home/pi/catkin_ws/devel/lib/libtitandriver_ros.so
+Symlinking /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_titan.pc
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_titan/cmake/vmxpi_ros_titanConfig-version.cmake
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_titan/cmake/vmxpi_ros_titanConfig.cmake

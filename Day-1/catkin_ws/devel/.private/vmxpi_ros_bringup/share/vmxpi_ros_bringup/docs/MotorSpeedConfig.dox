@@ -1,0 +1,10 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~motor0_speed" : \b [double] Motor 0's speed min: 0.0, default: 0.0, max: 1.0
+- \b "~motor1_speed" : \b [double] Motor 1's speed min: 0.0, default: 0.0, max: 1.0
+- \b "~motor2_speed" : \b [double] Motor 2's speed min: 0.0, default: 0.0, max: 1.0
+- \b "~motor3_speed" : \b [double] Motor 3's speed min: 0.0, default: 0.0, max: 1.0
+- \b "~enabled" : \b [bool] Enables and disables Titan min: False, default: True, max: True
+

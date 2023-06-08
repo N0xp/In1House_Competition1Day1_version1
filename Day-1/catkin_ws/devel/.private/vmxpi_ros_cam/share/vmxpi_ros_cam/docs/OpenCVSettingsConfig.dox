@@ -1,0 +1,12 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~iLowH" : \b [int] Lower bound Hue min: 0, default: 6, max: 179
+- \b "~iHighH" : \b [int] Upper bound Hue min: 0, default: 87, max: 179
+- \b "~iLowS" : \b [int] Lower bound Saturation min: 0, default: 104, max: 255
+- \b "~iHighS" : \b [int] Upper bound Saturation min: 0, default: 255, max: 255
+- \b "~iLowV" : \b [int] Lower bound Value min: 0, default: 178, max: 255
+- \b "~iHighV" : \b [int] Upper bound Value min: 0, default: 255, max: 255
+- \b "~tracking_on" : \b [bool] Enable bounding rectangle min: False, default: True, max: True
+

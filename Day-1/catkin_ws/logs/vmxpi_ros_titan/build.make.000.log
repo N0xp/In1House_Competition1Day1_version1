@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target titandriver_ros[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/titandriver_ros.dir/src/vmxpi_ros_titan/TitanDriver_ros.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_titan/lib/libtitandriver_ros.so[0m
+[ 50%] Built target titandriver_ros
+[35m[1mScanning dependencies of target titandriver_ros_wrapper[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/titandriver_ros_wrapper.dir/src/TitanDriver_ros_wrapper.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_titan/lib/libtitandriver_ros_wrapper.so[0m
+[100%] Built target titandriver_ros_wrapper

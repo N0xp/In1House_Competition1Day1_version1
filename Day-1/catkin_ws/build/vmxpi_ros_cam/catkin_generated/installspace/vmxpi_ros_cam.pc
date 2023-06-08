@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: vmxpi_ros_cam
+Description: Description of vmxpi_ros_cam
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

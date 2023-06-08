@@ -1,0 +1,6 @@
+Symlinking /home/pi/catkin_ws/devel/lib/libiowd_ros.so
+Symlinking /home/pi/catkin_ws/devel/lib/libdigitalout_ros.so
+Symlinking /home/pi/catkin_ws/devel/lib/libdigitalin_ros.so
+Symlinking /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_io.pc
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig-version.cmake
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig.cmake

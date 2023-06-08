@@ -1,0 +1,4 @@
+Symlinking /home/pi/catkin_ws/devel/lib/libsharp_ros.so
+Symlinking /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_sharp.pc
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_sharp/cmake/vmxpi_ros_sharpConfig-version.cmake
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_sharp/cmake/vmxpi_ros_sharpConfig.cmake

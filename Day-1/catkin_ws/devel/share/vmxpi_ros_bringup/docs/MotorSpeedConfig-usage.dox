@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="motor_speed" pkg="vmxpi_ros_bringup" type="motor_speed">
+  <param name="motor0_speed" type="double" value="0.0" />
+  <param name="motor1_speed" type="double" value="0.0" />
+  <param name="motor2_speed" type="double" value="0.0" />
+  <param name="motor3_speed" type="double" value="0.0" />
+  <param name="enabled" type="bool" value="True" />
+</node>
+\endverbatim
+

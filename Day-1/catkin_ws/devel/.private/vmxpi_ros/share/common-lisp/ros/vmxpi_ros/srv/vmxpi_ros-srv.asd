@@ -1,0 +1,21 @@
+
+(cl:in-package :asdf)
+
+(defsystem "vmxpi_ros-srv"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "Float" :depends-on ("_package_Float"))
+    (:file "_package_Float" :depends-on ("_package"))
+    (:file "FloatRes" :depends-on ("_package_FloatRes"))
+    (:file "_package_FloatRes" :depends-on ("_package"))
+    (:file "Int" :depends-on ("_package_Int"))
+    (:file "_package_Int" :depends-on ("_package"))
+    (:file "IntRes" :depends-on ("_package_IntRes"))
+    (:file "_package_IntRes" :depends-on ("_package"))
+    (:file "MotorSpeed" :depends-on ("_package_MotorSpeed"))
+    (:file "_package_MotorSpeed" :depends-on ("_package"))
+    (:file "StopMode" :depends-on ("_package_StopMode"))
+    (:file "_package_StopMode" :depends-on ("_package"))
+    (:file "StringRes" :depends-on ("_package_StringRes"))
+    (:file "_package_StringRes" :depends-on ("_package"))
+  ))

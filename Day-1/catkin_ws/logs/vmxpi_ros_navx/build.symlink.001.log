@@ -1,0 +1,4 @@
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_navx/lib/libnavx_ros_wrapper.so, /home/pi/catkin_ws/devel/lib/libnavx_ros_wrapper.so)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_navx/lib/pkgconfig/vmxpi_ros_navx.pc, /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_navx.pc)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_navx/share/vmxpi_ros_navx/cmake/vmxpi_ros_navxConfig-version.cmake, /home/pi/catkin_ws/devel/share/vmxpi_ros_navx/cmake/vmxpi_ros_navxConfig-version.cmake)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_navx/share/vmxpi_ros_navx/cmake/vmxpi_ros_navxConfig.cmake, /home/pi/catkin_ws/devel/share/vmxpi_ros_navx/cmake/vmxpi_ros_navxConfig.cmake)

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target cobra_ros[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cobra_ros.dir/src/Cobra_ros.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/lib/libcobra_ros.so[0m
+[100%] Built target cobra_ros

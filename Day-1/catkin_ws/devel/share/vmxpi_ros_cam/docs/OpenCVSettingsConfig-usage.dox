@@ -1,0 +1,13 @@
+\subsubsection usage Usage
+\verbatim
+<node name="opencv_settings" pkg="vmxpi_ros_cam" type="opencv_settings">
+  <param name="iLowH" type="int" value="6" />
+  <param name="iHighH" type="int" value="87" />
+  <param name="iLowS" type="int" value="104" />
+  <param name="iHighS" type="int" value="255" />
+  <param name="iLowV" type="int" value="178" />
+  <param name="iHighV" type="int" value="255" />
+  <param name="tracking_on" type="bool" value="True" />
+</node>
+\endverbatim
+

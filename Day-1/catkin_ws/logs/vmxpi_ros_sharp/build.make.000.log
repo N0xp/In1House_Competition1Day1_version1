@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target sharp_ros[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sharp_ros.dir/src/Sharp_ros.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp/lib/libsharp_ros.so[0m
+[100%] Built target sharp_ros

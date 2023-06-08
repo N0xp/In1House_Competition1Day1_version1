@@ -1,0 +1,41 @@
+In file included from [01m[K/usr/include/c++/8/vector:63[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/time.h:58[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/pi/catkin_ws/src/vmxpi_ros/vmxpi_ros_cam/src/opencv_ros.cpp:1[m[K:
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:[m[K In function ‘[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*; _ForwardIterator = dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*; _Allocator = std::allocator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> > >][m[K’:
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:311:2:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+       return [01;36m[Kstd::__uninitialized_copy_a[m[K
+              [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K (_GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__first),[m[K
+  [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K  _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc)[m[K;
+   [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:[m[K In function ‘[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>; _ForwardIterator = dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*; _Tp = dynamic_reconfigure::DoubleParameter_<std::allocator<void> >][m[K’:
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:289:37:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+     { return [01;36m[Kstd::uninitialized_copy(__first, __last, __result)[m[K; }
+              [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:[m[K In function ‘[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>; _ForwardIterator = dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*][m[K’:
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:134:15:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+       return [01;36m[Kstd::__uninitialized_copy<__is_trivial(_ValueType1)[m[K
+              [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K           && __is_trivial(_ValueType2)[m[K
+            [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K           && __assignable>::[m[K
+            [01;36m[K~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K __uninit_copy(__first, __last, __result)[m[K;
+  [01;36m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:[m[K In static member function ‘[01m[Kstatic _ForwardIterator std::__uninitialized_copy<_TrivialValueTypes>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>; _ForwardIterator = dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*; bool _TrivialValueTypes = false][m[K’:
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/8/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type ‘[01m[Kstd::move_iterator<dynamic_reconfigure::DoubleParameter_<std::allocator<void> >*>[m[K’ changed in GCC 7.1

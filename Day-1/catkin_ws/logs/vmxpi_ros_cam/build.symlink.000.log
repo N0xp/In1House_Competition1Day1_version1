@@ -1,0 +1,12 @@
+Symlinking /home/pi/catkin_ws/devel/include/vmxpi_ros_cam/OpenCVSettingsConfig.h
+Symlinking /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_cam.pc
+Symlinking /home/pi/catkin_ws/devel/lib/vmxpi_ros_cam/camera_node
+Symlinking /home/pi/catkin_ws/devel/lib/vmxpi_ros_cam/opencv_node
+Symlinking /home/pi/catkin_ws/devel/lib/python3/dist-packages/vmxpi_ros_cam/__init__.py
+Symlinking /home/pi/catkin_ws/devel/lib/python3/dist-packages/vmxpi_ros_cam/cfg/OpenCVSettingsConfig.py
+Symlinking /home/pi/catkin_ws/devel/lib/python3/dist-packages/vmxpi_ros_cam/cfg/__init__.py
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig.cmake
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig-version.cmake
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig.wikidoc
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig.dox
+Symlinking /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig-usage.dox

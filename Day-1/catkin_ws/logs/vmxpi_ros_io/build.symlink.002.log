@@ -1,0 +1,6 @@
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/libiowd_ros.so, /home/pi/catkin_ws/devel/lib/libiowd_ros.so)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/libdigitalout_ros.so, /home/pi/catkin_ws/devel/lib/libdigitalout_ros.so)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/libdigitalin_ros.so, /home/pi/catkin_ws/devel/lib/libdigitalin_ros.so)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/pkgconfig/vmxpi_ros_io.pc, /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_io.pc)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig-version.cmake, /home/pi/catkin_ws/devel/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig-version.cmake)
+Linked: (/home/pi/catkin_ws/devel/.private/vmxpi_ros_io/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig.cmake, /home/pi/catkin_ws/devel/share/vmxpi_ros_io/cmake/vmxpi_ros_ioConfig.cmake)

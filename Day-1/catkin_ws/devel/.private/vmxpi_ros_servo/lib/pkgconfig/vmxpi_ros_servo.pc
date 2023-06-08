@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel/.private/vmxpi_ros_servo
+
+Name: vmxpi_ros_servo
+Description: Description of vmxpi_ros_servo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

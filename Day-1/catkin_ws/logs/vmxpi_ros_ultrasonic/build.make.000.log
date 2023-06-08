@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ultrasonic_ros[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ultrasonic_ros.dir/src/Ultrasonic_ros.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_ultrasonic/lib/libultrasonic_ros.so[0m
+[100%] Built target ultrasonic_ros

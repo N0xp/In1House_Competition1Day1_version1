@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: vmxpi_ros_cobra
+Description: Description of vmxpi_ros_cobra
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

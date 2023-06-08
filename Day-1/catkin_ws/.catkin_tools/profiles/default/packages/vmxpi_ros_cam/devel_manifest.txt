@@ -1,0 +1,14 @@
+vmxpi_ros/vmxpi_ros_cam
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/cmake.lock /home/pi/catkin_ws/devel/./cmake.lock
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/include/vmxpi_ros_cam/OpenCVSettingsConfig.h /home/pi/catkin_ws/devel/include/vmxpi_ros_cam/OpenCVSettingsConfig.h
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/pkgconfig/vmxpi_ros_cam.pc /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_cam.pc
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/vmxpi_ros_cam/camera_node /home/pi/catkin_ws/devel/lib/vmxpi_ros_cam/camera_node
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/vmxpi_ros_cam/opencv_node /home/pi/catkin_ws/devel/lib/vmxpi_ros_cam/opencv_node
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/python3/dist-packages/vmxpi_ros_cam/__init__.py /home/pi/catkin_ws/devel/lib/python3/dist-packages/vmxpi_ros_cam/__init__.py
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/python3/dist-packages/vmxpi_ros_cam/cfg/OpenCVSettingsConfig.py /home/pi/catkin_ws/devel/lib/python3/dist-packages/vmxpi_ros_cam/cfg/OpenCVSettingsConfig.py
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/lib/python3/dist-packages/vmxpi_ros_cam/cfg/__init__.py /home/pi/catkin_ws/devel/lib/python3/dist-packages/vmxpi_ros_cam/cfg/__init__.py
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig.cmake /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig.cmake
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig-version.cmake /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/cmake/vmxpi_ros_camConfig-version.cmake
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig.wikidoc /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig.wikidoc
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig.dox /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig.dox
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cam/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig-usage.dox /home/pi/catkin_ws/devel/share/vmxpi_ros_cam/docs/OpenCVSettingsConfig-usage.dox

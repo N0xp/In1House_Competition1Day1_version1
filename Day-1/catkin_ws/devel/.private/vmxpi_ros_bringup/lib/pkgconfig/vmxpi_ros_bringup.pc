@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel/.private/vmxpi_ros_bringup
+
+Name: vmxpi_ros_bringup
+Description: Description of vmxpi_ros_bringup
+Version: 0.0.0
+Cflags: -I/home/pi/catkin_ws/devel/.private/vmxpi_ros_bringup/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy geometry_msgs std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp
+
+Name: vmxpi_ros_sharp
+Description: Description of vmxpi_ros_sharp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

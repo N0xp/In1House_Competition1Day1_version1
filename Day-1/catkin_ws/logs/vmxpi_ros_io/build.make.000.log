@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target digitalout_ros[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/digitalout_ros.dir/src/DO_ros.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/libdigitalout_ros.so[0m
+[35m[1mScanning dependencies of target digitalin_ros[0m
+[ 33%] Built target digitalout_ros
+[ 50%] [32mBuilding CXX object CMakeFiles/digitalin_ros.dir/src/DI_ros.cpp.o[0m
+[35m[1mScanning dependencies of target iowd_ros[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/iowd_ros.dir/src/IOwd_ros.cpp.o[0m
+[ 83%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/libdigitalin_ros.so[0m
+[ 83%] Built target digitalin_ros
+[100%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_io/lib/libiowd_ros.so[0m
+[100%] Built target iowd_ros

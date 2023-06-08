@@ -1,0 +1,6 @@
+vmxpi_ros/vmxpi_ros_sensors/vmxpi_ros_cobra
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/cmake.lock /home/pi/catkin_ws/devel/./cmake.lock
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/lib/libcobra_ros.so /home/pi/catkin_ws/devel/lib/libcobra_ros.so
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/lib/pkgconfig/vmxpi_ros_cobra.pc /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_cobra.pc
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/share/vmxpi_ros_cobra/cmake/vmxpi_ros_cobraConfig-version.cmake /home/pi/catkin_ws/devel/share/vmxpi_ros_cobra/cmake/vmxpi_ros_cobraConfig-version.cmake
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_cobra/share/vmxpi_ros_cobra/cmake/vmxpi_ros_cobraConfig.cmake /home/pi/catkin_ws/devel/share/vmxpi_ros_cobra/cmake/vmxpi_ros_cobraConfig.cmake

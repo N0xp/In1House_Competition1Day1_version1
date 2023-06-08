@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/catkin_ws/devel/.private/vmxpi_ros_io/setup.sh

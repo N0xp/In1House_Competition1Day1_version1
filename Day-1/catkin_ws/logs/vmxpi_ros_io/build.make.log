@@ -1,0 +1,3 @@
+[ 33%] Built target digitalout_ros
+[ 66%] Built target digitalin_ros
+[100%] Built target iowd_ros

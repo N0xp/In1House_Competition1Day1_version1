@@ -1,0 +1,6 @@
+vmxpi_ros/vmxpi_ros_sensors/vmxpi_ros_sharp
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp/cmake.lock /home/pi/catkin_ws/devel/./cmake.lock
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp/lib/libsharp_ros.so /home/pi/catkin_ws/devel/lib/libsharp_ros.so
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp/lib/pkgconfig/vmxpi_ros_sharp.pc /home/pi/catkin_ws/devel/lib/pkgconfig/vmxpi_ros_sharp.pc
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp/share/vmxpi_ros_sharp/cmake/vmxpi_ros_sharpConfig-version.cmake /home/pi/catkin_ws/devel/share/vmxpi_ros_sharp/cmake/vmxpi_ros_sharpConfig-version.cmake
+/home/pi/catkin_ws/devel/.private/vmxpi_ros_sharp/share/vmxpi_ros_sharp/cmake/vmxpi_ros_sharpConfig.cmake /home/pi/catkin_ws/devel/share/vmxpi_ros_sharp/cmake/vmxpi_ros_sharpConfig.cmake

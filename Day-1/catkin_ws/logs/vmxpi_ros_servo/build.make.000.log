@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target servo_ros[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/servo_ros.dir/src/Servo_ros.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/pi/catkin_ws/devel/.private/vmxpi_ros_servo/lib/libservo_ros.so[0m
+[100%] Built target servo_ros
