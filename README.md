@@ -18,6 +18,7 @@ $ catkin build -cs
 
  write this command on Tirmminal 2
 $ rosrun vmxpi_ros_bringup Task2_sensors_node 
+
 -----------------------------------------------------------
 task 3 control the DC motor using the releop_twit package, to evaluate the ouput
 
